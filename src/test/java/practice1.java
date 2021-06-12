@@ -3,5 +3,7 @@ public class practice1 {
 
         System.out.println("Eu is liking Git on InteliJ");
 
+        System.out.println("Work1");
+
     }
 }
